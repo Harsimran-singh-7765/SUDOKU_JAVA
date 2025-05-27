@@ -78,9 +78,6 @@ Welcome to **Sudokuku** – a clean and engaging Sudoku game built in Java with 
 
 ## 📸 Screenshots
 
-_(Add screenshots here by dragging them into your repo or using the Markdown image syntax)_
 
-```markdown
-![Game Screenshot](screenshots/game.png)
 
 
